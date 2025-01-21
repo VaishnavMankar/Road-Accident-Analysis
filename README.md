@@ -1,5 +1,6 @@
 # Road Accident Analysis
-![Road Accident Analysis Dashboard](image.png)
+
+![image](https://github.com/user-attachments/assets/f28c0aee-83df-4280-8beb-1b792378bb67)
 
 ## Dashboard Description
 
